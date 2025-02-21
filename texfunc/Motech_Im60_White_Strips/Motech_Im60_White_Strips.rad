@@ -1,0 +1,9 @@
+# Motech Im60 White Strips
+void texfunc pucker
+6 puck_dx puck_dy puck_dz pucker.cal -s 4.0
+0
+1 0.0035
+pucker ashik2 motech_whiteareas
+4 1 1 1 .
+0
+8 0.321771234 0.323890337 0.313624748 0.043764479 0.04399254 0.044409681 100 100

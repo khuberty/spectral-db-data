@@ -1,0 +1,9 @@
+# Sunpower E20 Solar Panel Cell
+void texfunc pucker
+6 puck_dx puck_dy puck_dz pucker.cal -s 4.0
+0
+1 0.0035
+pucker ashik2 sunpower_pvcells
+4 0 1 1 .
+0
+8 0.006995137 0.008994048 0.021037648 0.029284513 0.029518141 0.030717789 100 100

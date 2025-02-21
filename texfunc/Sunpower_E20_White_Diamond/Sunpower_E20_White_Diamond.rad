@@ -1,0 +1,9 @@
+# Sunpower E20 White Diamond
+void texfunc pucker
+6 puck_dx puck_dy puck_dz pucker.cal -s 4.0
+0
+1 0.0035
+pucker ashik2 sunpower_whitediamonds
+4 1 1 1 .
+0
+8 0.36785253 0.368747656 0.357485776 0.031241522 0.031928603 0.032703328 100 100

@@ -1,0 +1,9 @@
+# Motech Im60 Solar Panel Cell
+void texfunc pucker
+6 puck_dx puck_dy puck_dz pucker.cal -s 4.0
+0
+1 0.0035
+pucker ashik2 motech_pvcells
+4 0 1 1 .
+0
+8 0.014864952 0.01887973 0.040865004 0.040973486 0.041036951 0.041638971 100 100
